@@ -1,0 +1,23 @@
+.c-banner{
+    min-width: 100vw;
+    height: 25rem;
+}
+.c-banner img {
+    height: 100%;
+    width: 100%;
+}
+.img-perfil{
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+    border-radius: 50%;
+    height: 10rem;
+    width: 10rem;
+}
+.img-perfil img{
+    height: 95%;
+    width: 95%;
+    border: solid black 2px;
+    border-radius: 50%;
+
+}
