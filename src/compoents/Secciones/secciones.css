@@ -1,0 +1,7 @@
+.c-secciones{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-width: 100vw;
+    align-content: center;
+}
